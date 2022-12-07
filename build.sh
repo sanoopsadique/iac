@@ -8,3 +8,4 @@ if [ $choice == 'y' ]
         docker push sanoopsadique/iac:latest
 fi
     
+    
